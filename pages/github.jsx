@@ -70,7 +70,7 @@ export async function getStaticProps() {
   );
   let repos = await repoRes.json();
   repos = repos
-    .slice(0, 6);
+
 
   return {
     props: { title: 'GitHub', repos, user },
