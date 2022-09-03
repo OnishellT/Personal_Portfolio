@@ -2,7 +2,6 @@ import Typical from "react-typical";
 const AboutPage = () => {
   return (
     <>
-    
       <h1> <Typical
                 wrapper="b"
                 loop={Infinity}
