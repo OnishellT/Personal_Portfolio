@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Illustration from "../components/Illustration";
 import styles from "../styles/HomePage.module.css";
-import Typical from "react-typical/dist/index";
+import Typical from "react-typical";
 
 export default function HomePage() {
   return (
