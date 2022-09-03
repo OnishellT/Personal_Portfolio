@@ -11,7 +11,7 @@ const Bottombar = () => {
     <footer className={styles.bottomBar}>
       <div className={styles.container}>
         <a
-          href="https://github.com"
+          href="https://github.com/OnishellT/Personal_Portfolio"
           target="_blank"
           rel="noreferrer noopener"
           className={styles.section}

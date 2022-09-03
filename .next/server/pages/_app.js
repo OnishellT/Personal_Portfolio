@@ -631,7 +631,7 @@ const Bottombar = ()=>{
                 className: (Bottombar_module_default()).container,
                 children: [
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                        href: "https://github.com",
+                        href: "https://github.com/OnishellT/Personal_Portfolio",
                         target: "_blank",
                         rel: "noreferrer noopener",
                         className: (Bottombar_module_default()).section,
