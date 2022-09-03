@@ -10,7 +10,7 @@ const AboutPage = () => {
                   2000,
                   "Software Engineer",
                   2000,
-                ]}></Typical>  With 3+ years of experience</h1>
+                ]}></Typical>{' '}With 3+ years of experience</h1>
       <br/>
       <h3>My fields of expertise are: Backend, DevOps, Artificial Intelligence, Data Management &#38; Data Science, Desktop Programming, Cloud Computing.</h3>
       <h3>My professional experience also includes: Business Intelligence, Big Data, Cloud Computing, Cybersecurity, Database Administration (SQL Server), Desktop Programming (C#), Full Stack Web Development, DevOps Engineer(3+ Years of Experience)</h3>
