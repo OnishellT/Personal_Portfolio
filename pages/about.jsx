@@ -1,4 +1,4 @@
-import Typical from "react-typical";
+import Typical from "../node_modules/react-typical/dist/index";
 const AboutPage = () => {
   return (
     <>
