@@ -1,3 +1,4 @@
+import Typical from "react-typical";
 const AboutPage = () => {
   return (
     <>
