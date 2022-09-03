@@ -25,7 +25,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 4066:
+/***/ 2037:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -80,9 +80,9 @@ function Illustration(props) {
 // EXTERNAL MODULE: ./styles/HomePage.module.css
 var HomePage_module = __webpack_require__(2846);
 var HomePage_module_default = /*#__PURE__*/__webpack_require__.n(HomePage_module);
-;// CONCATENATED MODULE: external "react-typical"
-const external_react_typical_namespaceObject = require("react-typical");
-var external_react_typical_default = /*#__PURE__*/__webpack_require__.n(external_react_typical_namespaceObject);
+// EXTERNAL MODULE: ./react-typical/dist/index.js
+var dist = __webpack_require__(2246);
+var dist_default = /*#__PURE__*/__webpack_require__.n(dist);
 ;// CONCATENATED MODULE: ./pages/index.jsx
 
 
@@ -122,7 +122,7 @@ function HomePage() {
                                     children: [
                                         "I am a",
                                         " ",
-                                        /*#__PURE__*/ jsx_runtime_.jsx((external_react_typical_default()), {
+                                        /*#__PURE__*/ jsx_runtime_.jsx((dist_default()), {
                                             wrapper: "b",
                                             loop: Infinity,
                                             steps: [
@@ -377,7 +377,7 @@ module.exports = require("react/jsx-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [377,964,952,664], () => (__webpack_exec__(4066)));
+var __webpack_exports__ = __webpack_require__.X(0, [377,964,952,664,246], () => (__webpack_exec__(2037)));
 module.exports = __webpack_exports__;
 
 })();
